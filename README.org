@@ -1,0 +1,10 @@
+* psychiq
+
+Background job processing for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fukamachi/psychiq.git   |
+| commit  | 602fbb5  |
+| systems | psychiq |
+|---------+-------------------------------------------|
+
