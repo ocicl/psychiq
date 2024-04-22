@@ -4,6 +4,6 @@ Background job processing for Common Lisp
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/fukamachi/psychiq.git |
-| commit  | 0972f0b                                      |
+| commit  | f3f7601                                      |
 | systems | psychiq                                      |
 |---------+----------------------------------------------|
